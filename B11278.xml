@@ -1,0 +1,776 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principle of all principles concerning religion. Or The summe of certaine sermons prooving the scriptures to be the very VVord of God.</title>
+            <author>Byfield, Adoniram, d. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11278</idno>
+            <idno type="STC">STC 1021.5</idno>
+            <idno type="STC">ESTC S115754</idno>
+            <idno type="EEBO-CITATION">99850972</idno>
+            <idno type="PROQUEST">99850972</idno>
+            <idno type="VID">176979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B11278)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 737:11, 1165:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principle of all principles concerning religion. Or The summe of certaine sermons prooving the scriptures to be the very VVord of God.</title>
+                  <author>Byfield, Adoniram, d. 1660.</author>
+               </titleStmt>
+               <extent>[12], 57, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. D[awson] for Nicholas Bourne, at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Adoniram Byfield.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Formerly STC 4209.</note>
+                  <note>Identified as STC 4209 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Inspiration --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176979:1" rendition="simple:additions"/>
+            <p>THE PRINCIPLE <hi>OF</hi> ALL PRINCIPLES Concerning RELIGION. <hi>OR</hi> THE SVMME OF certaine SERMONS: <hi>Prooving</hi> The Scriptures to be the very VVord OF GOD.</p>
+            <q>
+               <bibl>
+                  <hi>Ioh. 5.39.</hi>
+               </bibl>
+               <p>Search the Scriptures; For in them yee thinke to haue eternall life.</p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>I. D.</hi> for <hi>Nicholas Bourne,</hi> At the South entrance of the <hi>Royall Exchange.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176979:2"/>
+            <pb facs="tcp:176979:2"/>
+            <head>TO THE WORSHIPFVL, M<hi rend="sup">r</hi> HVMPHREY BROVVNE, Increaſe of Grace, and <hi>the ſaving knowledge</hi> of <hi>Ieſus Christ.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt other Doctrines here<g ref="char:EOLhyphen"/>tofore gathered from my Text, <hi>viz Act.</hi> 24.14.15.16. We learned, that, <hi>Wee are to ground our Faith onely vpon the Word written.</hi> Which Doctrine aroſe out of this Obſervation, That <hi>Paul</hi> doth not ſay, He beleeved
+<pb facs="tcp:176979:3"/>all things whatſoever as direc<g ref="char:EOLhyphen"/>tions of his worſhipping the God of his Fathers; but Belee<g ref="char:EOLhyphen"/>ving all things written in the Law, &amp; the Prophets, ſo wor<g ref="char:EOLhyphen"/>ſhip I, &amp;c. This point is wor<g ref="char:EOLhyphen"/>thy due conſideration, in theſe prevaricating times, wherein <hi>Papiſts</hi> doe ſo fearefully decline the <hi>Word written,</hi> and runne vnto <hi>Traditions,</hi> which they call <hi>Vn<g ref="char:EOLhyphen"/>written Verities;</hi> though indeede <hi>Traditionall very lyes;</hi> they runne (I ſay) vnto theſe, as vnto the rocke of their refuge. For if they could, but in ſhew, iuſti<g ref="char:EOLhyphen"/>fie their Antichriſtian Idolatry, and Superſtitions by the <hi>Word written,</hi> how boaſting they would then be, may appeare
+<pb facs="tcp:176979:3"/>by their catching at ſyllables thereof, which ſound, in phan<g ref="char:EOLhyphen"/>taſticall eares, to ſome of their purpoſes. So that Chriſt his cenſure vpon the <hi>Scribes</hi> and <hi>Phariſes,</hi> may be iuſtly layd vp<g ref="char:EOLhyphen"/>on them, <hi>viz: Yee haue made the Word</hi>
+               <note n="a" place="margin">Mat. 15.1.6.</note> 
+               <hi>written of none authoritie by your Traditions:</hi> But whoſoever ſpeaketh not according to this Word, it is becauſe there is no light in them
+<note n="b" place="margin">Iſa. 8.20.</note>. For the whole Scripture that is, The Word written) is given by Inſpira<g ref="char:EOLhyphen"/>tion of God, and is profitable to teach, to convince, to cor<g ref="char:EOLhyphen"/>rect, and to inſtruct in righte<g ref="char:EOLhyphen"/>ouſneſſe, that the man of God may be abſolute, being made perfect vnto all good works
+<note n="c" place="margin">2 Tim. 3.15.16.17.</note>.</p>
+            <pb facs="tcp:176979:4"/>
+            <p> Amongſt other Vſes of the ſayd Doctrine, this was one, If we are to ground our faith only vpon the Word written, then all, who are wiſe vnto Salvation, muſt diligently read the ſame; or, If they cannot reade, diligently heare them read in publique Congregati<g ref="char:EOLhyphen"/>ons, &amp; els-where, as they may. For to what ende was the Word of God committed to Writing; but that Gods people ſhould reade, or heare it read diligently? Therefore let vs re<g ref="char:EOLhyphen"/>ligiouſly take to heart, and con<g ref="char:EOLhyphen"/>ſider the wiſe exhortation of our Maſter Chriſt, <hi>viz: Search the Scriptures, For in them yee thinke to haue eternall life</hi>
+               <note n="d" place="margin">Ioh. 5.39.</note>. Wherein ob<g ref="char:EOLhyphen"/>ſerue,
+<pb facs="tcp:176979:4"/>that He calleth the word of God <hi>Scriptures,</hi> that is, <hi>Writings,</hi> and not onely ſo, but <hi>The Scrip<g ref="char:EOLhyphen"/>tures,</hi> that is, Writings incom<g ref="char:EOLhyphen"/>parably excelling all other. For (indeed) they are given by inſpiration of God. There<g ref="char:EOLhyphen"/>fore we are to ſearch them. Which word <hi>Search,</hi> implieth Diligence. As where we are exhorted
+<note n="e" place="margin">Pro. 2.3.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>to Search for the Know<g ref="char:EOLhyphen"/>leage of God as for Treaſures.</hi> But how are Writings ſearched o<g ref="char:EOLhyphen"/>therwiſe, than by diligent rea<g ref="char:EOLhyphen"/>ding? Thus did the Nobly-minded <hi>Baereans</hi>
+               <note n="f" place="margin">Acts. 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Search the Scrip<g ref="char:EOLhyphen"/>tures daily.</hi> So that Chriſt his ex<g ref="char:EOLhyphen"/>hortation is this in effect. If ye thinke (indeed) to haue eternall life in the Scriptures, then
+<pb facs="tcp:176979:5"/>ſhew your ſelues wiſe vnto ſalvation by your diligence in reading, or hearing them read. This point requireth much preſſing in theſe times, where<g ref="char:EOLhyphen"/>in too many are like thoſe, whom <hi>Iſaiah</hi> taxeth.
+<note n="g" place="margin">Iſa. 29.10.</note> VVho, being covered with a ſpirit of ſlumber, dreame of ea<g ref="char:EOLhyphen"/>ting, but when they are a<g ref="char:EOLhyphen"/>wake their ſoules are emp<g ref="char:EOLhyphen"/>tie; Yet when a Booke is of<g ref="char:EOLhyphen"/>fered them to be read, they refuſe, ſaying either <hi>The Booke is Sealed,</hi> as doe the Papiſts; or, <hi>They cannot Reade,</hi> as doe thouſands of irreligious people, whoſe careleſneſſe to heare the Scriptures read, (diſcovered by their late com<g ref="char:EOLhyphen"/>ming
+<pb facs="tcp:176979:5"/>to the Church, where the Scriptures be read, and their readineſſe to heare the reading of vaine Bookes and Ball<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des) doth manifeſt their want of religious zeale, to ſupply their diſability to reade the Scriptures, by diligence in giuing attendance to the reading thereof. But there may come a time of tryall, when the Deafe ſhall heare the words of the Booke, as <hi>ISAIAH</hi> Prophecieth in the ſame Chapter.
+<note place="margin">Verſ. 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> VVhich Prophecie implieth, that he, who ſayd, He could not reade, ſhould (yet) haue ſignified deſire to heare the Booke read. To prevent
+<pb facs="tcp:176979:6"/>which tryall (if it may ſo pleaſe our moſt gracious God) let's imitate, yea, emulate the reli<g ref="char:EOLhyphen"/>gious <hi>Iewes,</hi>
+               <note n="h" place="margin">Acts. 13.14.15. And 15.21.</note> who ſo diligently heard the olde Teſtament read in their Synagogues every Sab<g ref="char:EOLhyphen"/>bath day, that Chriſt, and his Apoſtles ſaw it not neceſſary to quote Chapter, and Verſe, when they preached, or wrote. And why? Becauſe, by diligent hearing the Scriptures read, their memory was ſo confir<g ref="char:EOLhyphen"/>med, that they could preſently acknowledge every allegation to be conteined in the Scrip<g ref="char:EOLhyphen"/>tures. To which ende, <hi>viz:</hi> the confirmation of memory by reading, was the Word of God written; Yea ſo, That the chil<g ref="char:EOLhyphen"/>dren
+<pb facs="tcp:176979:6"/>of <hi>Iſrael</hi> were commanded
+<note n="i" place="margin">Deut. 11.19.18.</note> as well to write Gods words vpon the poſts of their houſes, and vpon their gates, as to be ſpeaking of them, when they ſit, walke, &amp;c. that they might lay them vp in their hearts. Theſe things I now write, that thereby I may ſtirre you, and others vp, by reading, to renew, and confirme your memory, that it may, vnto your farther edification, reflect vpon this ground of Religio<g ref="char:cmbAbbrStroke">̄</g>. The Scrip<g ref="char:EOLhyphen"/>tures be the very Word of <hi>God.</hi> VVhich (indeed) is, <hi>The Princi<g ref="char:EOLhyphen"/>ple of all Principles concerning Religi<g ref="char:EOLhyphen"/>on,</hi> and therefore is (as it ought to be) eſteemed accordingly of all that doe the Truth
+<note n="k" place="margin">Ioh. 3.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Deut. 17.19</note>, that is,
+<pb facs="tcp:176979:7"/>Obey God in Sinceritie, ſo as they come to the light thereof, that their deeds may be made manifeſt, that they be wrought according to God. Therefore not onely <hi>David</hi> a King, and an olde man, profeſſed
+<note n="l" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al. 37.25.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>9.105.9.</note> Gods <hi>Word</hi> to haue beene a <hi>Light to his paths,</hi> but the Spirit alſo, by way of a Queſtion, doth, with a ſtrong aſſeveration, affirme, <hi>That young men</hi> (if they feare God) <hi>muſt re<g ref="char:EOLhyphen"/>dreſſe their wayes in taking heede to them according to Gods Word.</hi> To which our moſt holy God, and to the Word of his grace,
+<note n="m" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct 20.32.</note> 
+               <hi>which is able to build further, and to giue you an inheritance amongst all them which are ſanctified,</hi> I heartily commend you.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176979:7"/>
+            <head>THE PRINCIPLE <hi>OF</hi> ALL PRINCIPLES concerning Religion.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Act. 24.14.15.16.</hi>
+                  </bibl>
+                  <p n="14">
+                     <hi>14.</hi> But this I confeſſe vnto thee, that af<g ref="char:EOLhyphen"/>ter the way which they call hereſie, ſo worſhip I the God of my Fathers, be<g ref="char:EOLhyphen"/>leeving all things which are written in the Law and the Prophets.</p>
+                  <p n="15">
+                     <hi>15.</hi> And haue hope towards God, which they themſelues alſo allow, that there ſhall be a reſurrection of the dead, both of the iuſt, and vniuſt.</p>
+                  <p n="16">
+                     <hi>16.</hi> And herein doe I exerciſe my ſelfe, to haue alwayes a Conſcience voyde of offence towards God, and toward men.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N theſe three Verſes may be obſerved 4. grounds of Religion, whereof e<g ref="char:EOLhyphen"/>very one is prooved by the other three, and is of that power<g ref="char:EOLhyphen"/>full
+<pb n="2" facs="tcp:176979:8"/>truth, that if it be beleeved in<g ref="char:EOLhyphen"/>deed, it perſwadeth the beleever to make conſcience of ſinne, therefore all are worthy of due conſideration, <hi>Viz.</hi> (1.) <hi>There is a God (by name, The God of Abraham, Iſaac, and Iacob) to be worſhipped.</hi> (2.) <hi>There is a Word of God</hi> (Viz. <hi>The Bible, that is, the Booke of Bookes, conſiſting of the olde, and new Teſtament) to be beleeved.</hi> (3.) <hi>There is a Reſurrection both of iuſt, and vniuſt to be expected. And</hi> (4.) <hi>There is a Conſci<g ref="char:EOLhyphen"/>ence to be tendered.</hi> The firſt ground hath beene layd as ſurely as I can. For none can be religious, who doth not beleeue it. The ſecond is like<g ref="char:EOLhyphen"/>wiſe to be ſurely layd. For if there be no ſuch Word, there can be no true religion, but ſuperſtition. The <hi>Sama<g ref="char:EOLhyphen"/>ritans</hi>
+               <note n="a" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 4.20.22.</note> and <hi>Athenians</hi>
+               <note n="b" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 17.22.23.</note> were ſuperſti<g ref="char:EOLhyphen"/>tious, becauſe they worſhipped God not according to his Word. That therefore we may haue true ſpirituall comfort in our Chriſtian Religion, in which we worſhip God, let vs be
+<pb n="3" facs="tcp:176979:8"/>well perſwaded, that the Bible is the Word of God. That impoſter <hi>Maho<g ref="char:EOLhyphen"/>met,</hi> to make the Turkes ſuperſtiti<g ref="char:EOLhyphen"/>ouſly to regard his <hi>Alchoran,</hi> Compi<g ref="char:EOLhyphen"/>led by himſelfe, a <hi>Iew,</hi> and a <hi>Neſtorian</hi> heretique, ſo plotted with his Com<g ref="char:EOLhyphen"/>plices, that having tolde the Turkes that God would ſend his vndoubted Word about a Camels necke out of the Wilderneſſe, before the Sermon was ended, a Camell came into the Church with the <hi>Alchoran</hi> about the necke. Were not the Bible the vn<g ref="char:EOLhyphen"/>doubted Word of God, we Chriſtians are the moſt abſurd in our Religion of all other. For we make him a God, and our onely Saviour, whom we ac<g ref="char:EOLhyphen"/>knowledge to haue beene a man, and crucified. But if it be, then may wee, with comfort, avow our Religion, againſt <hi>Iewes, Turkes,</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p>That we may be well grounded in this point, I haue determined to proue it not onely by the other three grounds, but alſo by imitating an or<g ref="char:EOLhyphen"/>der
+<pb n="4" facs="tcp:176979:9"/>of proofes which Chriſt obſer<g ref="char:EOLhyphen"/>veth, <hi>Ioh.</hi> 5.31. to 39. With which I will begin as being moſt worthy in regard of the Author, and as ſhewing, that the Bible, which is the Word written, may be prooved to be the Word of God, by like Arguments as Chriſt prooveth himſelfe to be the <hi>E<g ref="char:EOLhyphen"/>ternall Word</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 1.1.14.</note> 
+               <hi>made fleſh,</hi> that is, the <hi>Meſsiah.</hi> Which he prooveth by 4. teſtimonies. 1. Of <hi>Iohn Baptiſt.</hi> 2. Of his owne Workes. 3. Of his Father; And 4. Of the Scriptures. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> In imitati<g ref="char:EOLhyphen"/>tion therefore, let our firſt proofe be, The Teſtimony of the Church, which, throughout all ages, hath a<g ref="char:EOLhyphen"/>vowed the Bible to be the vndoubted Word of God. Now all true Chriſti<g ref="char:EOLhyphen"/>ans reioyce in the Church, as the <hi>Iewes</hi> did in <hi>Iohn Baptiſt.</hi> For it is <hi>The Pillar of truth</hi>
+               <note n="d" place="margin">Tim. 3.15.</note>. Not becauſe the Church ſupporteth the Scriptures, ſo as to be the Word of God, as <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> would make vs to beleeue. Nay, The Scriptures ſupport the Church,
+<pb n="5" facs="tcp:176979:9"/>ſo as to be the Church of God. In<g ref="char:EOLhyphen"/>deed, if there be no other vſe of a Pil<g ref="char:EOLhyphen"/>lar but to ſupport, then that place of 1 <hi>Tim.</hi> 3.15. might ſeeme to make for the <hi>Papiſts:</hi> but there is another vſe of a Pillar, <hi>viz.</hi> To haue that written, or engraven therevpon, which is to be remembred for ever. As in <hi>Rev.</hi> 3.12.
+<note place="margin">Revel. 3.12.</note> Chriſt ſayth, <hi>Him that overco<g ref="char:cmbAbbrStroke">̄</g>meth, I will make a Pillar in the Temple of my God.</hi> How? <hi>I will write vpon him the Name of my God, and my new Name.</hi> Indeed, The true ſenſe of that to <hi>Ti<g ref="char:EOLhyphen"/>mothie</hi> is this; As a Pillar doth pre<g ref="char:EOLhyphen"/>ferue the memory of thoſe things which are written thereon; So the Church preſerveth Truth commen<g ref="char:EOLhyphen"/>ded therevnto. This ſenſe the place it ſelfe doth intimate; For (ſaith <hi>Paul</hi>) Theſe things I write, that, if I tarry long, thou mayſt know how to be<g ref="char:EOLhyphen"/>haue thy ſelfe in the houſe of God, that it being the Church of the living God (therefore ever-living) may, as a Pillar, preſerue Truth which it lear<g ref="char:EOLhyphen"/>neth
+<pb n="6" facs="tcp:176979:10"/>of thee. Hence it is that <hi>Auſt in</hi> ſayth,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntra Epiſt. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>md. cap.</hi> 5.</note> 
+               <hi>I had not beleeved the Scriptures to haue beene the Word, had I not beene mooued with the Churches credite.</hi> Thus was he mooved indeed, when he firſt turned from his Manichiſme: But when he was ſetled in Religion, thus he writeth to <hi>Maximinus.</hi>
+               <note place="margin">
+                  <hi>Contra Maxim. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ib.</hi> 3. <hi>cap.</hi> 14.</note> 
+               <hi>Neither muſt I alledge the Councell of</hi> Nice <hi>in preiudice of the matter, nor you the Councell of</hi> Ariminum, <hi>Let matter ſtriue with matter, cauſe with cauſe, rea<g ref="char:EOLhyphen"/>ſon with reaſon, by authoritie of the Scriptures.</hi> And in another place. <hi>Reade this out of a Prophet,</hi>
+               <note place="margin">
+                  <hi>De Paſtor. cap.</hi> 14.</note> 
+               <hi>out of a Pſalme, out of the Law, out of the Goſpel, out of an Apoſtle; Thence recite I the Church diſperſt over the whole world;</hi> and our Lord ſaying. <hi>My ſheepe heare my voyce.</hi> So that <hi>Auſtin</hi> did like the <hi>Samaritans,</hi> who, at the firſt, beleeved Chriſt to be the <hi>Meſsiah</hi> for the ſaying of the Woman, but afterward, they profeſſed.
+<note n="e" place="margin">Ioh. 4.39.42.</note> 
+               <hi>Now wee beleeue, not be<g ref="char:EOLhyphen"/>cauſe of thy ſaying; For wee haue heard him our ſelues.</hi>
+            </p>
+            <pb n="7" facs="tcp:176979:10"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> Now then let vs proceede to the ſecond Teſtimony from the proper workes of the Scriptures, which is greater then the former, as was the ſecond Teſtimony, which Chriſt pleaded. I will now take knowledge but of two proper works of the Scrip<g ref="char:EOLunhyphen"/>tures. The former is; Though they be, for the moſt part, very ſimple, &amp; plaine, yet (like God) they be migh<g ref="char:EOLhyphen"/>ty in operation. For the word of God ſimply preached is the power of God
+<note n="f" place="margin">2 Cor. 12.9. 1 Cor. 3.4.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>. It being like fire, and an ham<g ref="char:EOLhyphen"/>mer,
+<note n="g" place="margin">Ier. 23.29.22.</note> converteth the ſoule,
+<note n="h" place="margin">Pſal. 19.7.</note> being not carnall, caſteth downe imagina<g ref="char:EOLhyphen"/>tions exalted, and bringeth every thought to the obedience of Chriſt
+<note n="i" place="margin">2 Cor. 10.4.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>. For it is the ſword of the Spirit
+<note n="k" place="margin">Eph. 6.17.</note>; be<g ref="char:EOLhyphen"/>cauſe the Spirit of God, being au<g ref="char:EOLhyphen"/>thour thereof
+<note n="l" place="margin">Pet. 1.21.</note> by it worketh migh<g ref="char:EOLhyphen"/>tily vpon the ſpirit of man. <hi>Heb.</hi> 4.12. For it accompanieth the ſame, <hi>Iſa.</hi> 59.21. ſo as a man is compelled to ac<g ref="char:EOLhyphen"/>knowledg the power of Gods word, when it is faithfully preached, 1 <hi>Cor.</hi> 4.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb n="8" facs="tcp:176979:11"/>
+            <p> The other is, They prophecy ma<g ref="char:EOLhyphen"/>ny great things, which are accom<g ref="char:EOLhyphen"/>pliſhed in due time. As the bondage of <hi>Iſraell</hi> in <hi>Egypt, Ezod.</hi> 12.41. Cap<g ref="char:EOLhyphen"/>tivity in <hi>Babilon, Ier.</hi> 29.10. The ſuc<g ref="char:EOLhyphen"/>ceſſion of foure <hi>Monarches, Dan.</hi> 2.37. to 40. Comming of the <hi>Meſsiah, Dan</hi> 9.24.25.26. Calling of the <hi>Gen<g ref="char:EOLhyphen"/>tiles, Iſa.</hi> 2.2.3. And revealing of <hi>An<g ref="char:EOLhyphen"/>tichriſt,</hi> 2 <hi>Theſſ.</hi> 2.7.8. that is, the Pope revealed after the removall of the Emperour from <hi>Rome.</hi> So that, as God was acknowledged ſo to be, becauſe he, by <hi>Daniel,</hi> opened ſecrets
+<note n="m" place="margin">Dan. 2.47.</note> and a Prophet is to be acknowled<g ref="char:EOLhyphen"/>ged ſo to be, if his Prophecy come to paſſe
+<note n="n" place="margin">De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 18.18. &amp;c.</note>, I may conclude, that, becauſe ſo many, and great Prophecies in the Scriptures are duly fulfilled, they are therfore the vndoubted word of God</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Our third Teſtimony is fro<g ref="char:cmbAbbrStroke">̄</g> the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> that is God, <hi>Gal.</hi> 1. I who hath gi<g ref="char:EOLhyphen"/>ven teſtimony to the ſcriptures, <hi>viva voce,</hi> &amp; by his wonderfull works. He gaue teſtimony <hi>viva voce</hi> to the old Teſtament, when he gaue the Deca<g ref="char:EOLhyphen"/>logue
+<note n="o" place="margin">Deut. 5.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>.
+<pb n="9" facs="tcp:176979:11"/>Whereof the Prophets, and the reſt of the Scriptures are explana<g ref="char:EOLhyphen"/>tions, ſo that as Law, and Prophets is here <hi>(per Synchdochen)</hi> put for the whole old Teſtament, ſo elſe wher is Prophets onely
+<note n="p" place="margin">Acts. 26.27. Ephc. 2.20.</note>. So that, as the whole lumpe, and branches be holy, if the firſt fruites, &amp; roote be holy
+<note n="q" place="margin">Rom. 11.16.</note>: So the teſtimony given <hi>viva voce</hi> to the Decalogue, is an authorizing of the whole olde Teſtament, God like<g ref="char:EOLhyphen"/>wiſe <hi>viva voce</hi> gaue Teſtimony to the new Teſtament, when, by a voyce out of a cloud
+<note n="r" place="margin">Mat. 17.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>, he ſayd <hi>This is my be<g ref="char:EOLhyphen"/>loved Sonne, in whom I am well pleaſed, heare him.</hi> Wherein ſhould we heare him? To wit, In the Goſpell, which is <hi>The word of Reconciliation</hi>
+               <note n="ſ" place="margin">2 Cor. 5.19.</note> by for<g ref="char:EOLhyphen"/>giueneſſe of our ſinnes, and is there<g ref="char:EOLhyphen"/>fore worthily called <hi>The word of Chriſt</hi>
+               <note n="t" place="margin">Coloſ. 3.16.</note>, Which reconciliation is in<g ref="char:EOLhyphen"/>timated in theſe words. <hi>In whom I am well pleaſed.</hi> This word of Chriſt is contayned in the new Teſtament; Therefore, by this voyce, teſtimonie
+<pb n="10" facs="tcp:176979:12"/>is thereunto given. This inference is co<g ref="char:cmbAbbrStroke">̄</g>firmed by the Apoſtle <hi>Peter</hi>
+               <note n="u" place="margin">2 Pet. 1.16.17.</note>. Who by this voyce, proveth, that the A<g ref="char:EOLhyphen"/>poſtles followed not deceiveable fa<g ref="char:EOLhyphen"/>bles, but opened the power, &amp; com<g ref="char:EOLhyphen"/>ming of Chriſt. God alſo gaue teſti<g ref="char:EOLhyphen"/>mony therunto by wonderful works. For) if Antiquity may be beleeved
+<note n="x" place="margin">
+                  <hi>Iren. lib.</hi> 3 <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ap</hi> 25.</note>) He confirmed the old Teſtament by this miracle. <hi>Ptolomy</hi> King of <hi>Egypt,</hi> hearing the books of the Iewes high<g ref="char:EOLhyphen"/>ly exalted, ſet 70. learned Iewes in ſo many places, ſo as they could not conferre, to tranſlate thoſe bookes out of Hebrew into Greeke. When they had done, the 70. tranſlations ſo agreed word for word, as if all had conferred, &amp; agreed vpon one tranſ<g ref="char:EOLhyphen"/>lation. The number of the bookes being thirtie nine, The puacitie, and ambiguity of Hebrew wordes, and experience of diverſity in tranſlating farre more intelligible languages, co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſidered, this is a great miracle. Tou<g ref="char:EOLhyphen"/>ching the new Teſtament, the Text
+<pb n="11" facs="tcp:176979:12"/>ſayth plainly that
+<note n="y" place="margin">Mark 16.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> the Apoſtles prea<g ref="char:EOLunhyphen"/>ched every where; And the Lord co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>firmed the word with ſignes that fol<g ref="char:EOLhyphen"/>lowed: therefore God gaue teſtimo<g ref="char:EOLhyphen"/>nie to the new Teſtament by won<g ref="char:EOLhyphen"/>derfull workes. Here Papiſts may be anſwered, who require vs to ſhew by what miracles, we confirme our new Goſpell, I anſwere; Indeede, if the Goſpell, which we preach, were new, as they (like Iewes
+<note n="z" place="margin">Mark 1.27.</note>) doe terme it, then it is to be confirmed with new miracles, or not to be received: But being the ſame which Chriſt, &amp; his Apoſtles preached, it is ſo ſufficient<g ref="char:EOLhyphen"/>ly confirmed by the miracles which Chriſt, &amp; his Apoſtles wrought, that wee, with <hi>Auſtin</hi>
+               <note n="a" place="margin">
+                  <hi>Aug de Civi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Dei. l.</hi> 22.</note> call him <hi>a won<g ref="char:EOLhyphen"/>der of men</hi> who now requireth mi<g ref="char:EOLhyphen"/>racles to that ende.</p>
+            <p>God gaue teſtimony both to the old, and new Teſtament by preſer<g ref="char:EOLhyphen"/>ving them miraculouſly. Touching the former it is to be conſidered, that Iſraell was for a long ſeaſon, without
+<pb n="12" facs="tcp:176979:13"/>the true God, without Prieſt to teach and without Law
+<note n="b" place="margin">Chro. 15.3.</note> Is it not a ſpeciall worke of God, that the Scriptures then being were preſerved, and that in purity? And the rather, if we con<g ref="char:EOLhyphen"/>ſider how deſpitefully <hi>Iehoiakim,</hi> cut and burnt <hi>Ieremies</hi> roule, <hi>Ier.</hi> 36.23. It is yet more remarkeable that the people of God were captiues. 70. yeares in <hi>Babylon</hi>
+               <note n="c" place="margin">Iere: 29.10. and 27.22.</note>, whether alſo the holy veſſels were carried. How were the Scriptures preſerved al this while otherwiſe than by the wonderfull providence of God? But it is moſt admirable, that Ieruſalem, and the Temple were twice deſtroyed, once by <hi>Nebuchadnezzars</hi> ſervant
+<note n="d" place="margin">2 King 25.</note>, and a<g ref="char:EOLhyphen"/>gaine after Chriſt his aſcenſion,
+<note n="e" place="margin">Luke 19.41 to 44</note> and yet the holy Books kept in the Tem<g ref="char:EOLhyphen"/>ple are preſerved. Touching the lat<g ref="char:EOLhyphen"/>ter; It is not vnknown, that in the firſt ages of the Church
+<note n="*" place="margin">
+                  <hi>Acts &amp; Mo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ments, p.</hi> 30.</note> there were grie<g ref="char:EOLhyphen"/>vous perſecutions for three hundred yeares, by ten Tyrannicall Heathen Emperours of <hi>Rome,</hi> whereof (it may
+<pb n="13" facs="tcp:176979:13"/>be) Chriſt prophecyed, when he told the Churches they ſhould haue tri<g ref="char:EOLhyphen"/>bulation
+<note n="f" place="margin">Revel. 2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> ten dayes, or times. How were the Scriptures preſerved all this terrible time, other-wiſe than by the wonderfull providence of God? Againe; Since thoſe ten perſecuti<g ref="char:EOLhyphen"/>ons, Antichriſt the Pope hath exerci<g ref="char:EOLhyphen"/>ſed his tyranny over the Churches for the ſpace of about. 900. yeares. Vnder a type of a King, <hi>Daniel</hi>
+               <note n="g" place="margin">Dan. 11.31.36.37.</note> pro<g ref="char:EOLhyphen"/>phecyeth of him, which is to be con<g ref="char:EOLhyphen"/>ſidered. For it is ſayd; His heart ſhall be againſt the holy Covenant; So the Popes heart is againſt the new Teſtament in Chriſt his bloud, to e<g ref="char:EOLhyphen"/>ſtabliſh his merits by workes. It is alſo ſayd, <hi>On that King's part armes ſhall ſtand,</hi> as now they doe on the Popes part; <hi>and they ſhall pollute the Sanctuary, and ſet vp the abhominable deſolation:</hi> So doth the Pope, pollute the Churches, and ſetteth vp his ab<g ref="char:EOLhyphen"/>hominable Maſſe. That King, <hi>Did what he listed, cared not for any God, but
+<pb n="14" facs="tcp:176979:14"/>magnified himſelfe aboue all.</hi> Doth not the Pope all this? Laſtly; That King, <hi>In place of the God of his Fathers, honou<g ref="char:EOLhyphen"/>red the God, Mauzzim:</hi> Doth not the Pope honour in the Maſſe a God of bread in place of the true God? But what may induce vs to ſuppoſe that King to be a type of the Pope? Be<g ref="char:EOLhyphen"/>ſides the many agreements noted, It is to be obſerved, that howſoever all things, written of that King were true according to the letter: yet Chriſt ſayth
+<note n="h" place="margin">Mat. 24.15.</note> 
+               <hi>When yee ſee the abhomination of deſolation ſpoken of by</hi> Daniell, <hi>ſtand in the holy places &amp;c,</hi> Whereby hee ap<g ref="char:EOLhyphen"/>plieth this Prophecy to the deſtruc<g ref="char:EOLhyphen"/>tion of Ieruſalem, and the Temple by the Romane Emperour, as doth more plainly appeare in <hi>Luke</hi> 21.20. conferred with <hi>Dan.</hi> 9.26.27. Divines, not without Analogy, apply this prophecy to the Maſſe, that abhomi<g ref="char:EOLhyphen"/>nation (indeede) of Deſolation. A<g ref="char:EOLhyphen"/>gaine, It is to be obſerved, that the Roman Emperour was the firſt beaſt
+<note n="i" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evel. 13.1. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 7.11.12.</note>
+               <pb n="15" facs="tcp:176979:14"/>that the Pope is another beaſt, which doth all that the firſt beaſt did; And that the Church of Chriſt is the Houſe of God,
+<note n="k" place="margin">1 Tim. 3.</note> as was the Temple. So then, as the Romane Emperour deſtroyed the Temple, ſo the Pope hath perſecuted, and ſtil perſecuteth the true Church of Chriſt. How did the new Teſtament, ſo oppoſite to Popery, eſcape ſo long a rage, and reigne? This is the more ſtrange theſe things conſidered. The old Teſta<g ref="char:EOLhyphen"/>ment in Hebrew, and the new Teſta<g ref="char:EOLhyphen"/>ment in Greeke, were ſtrangers in Iſrael ever ſince the Pope was, before the Goſpell was renewed. The Pope will not ſuffer the Scriptures to bee read to the people in their mother tongue, &amp; the ſecond Commaunde<g ref="char:EOLhyphen"/>ment condemning the worſhipping of Images is in popiſh Catechiſmes thruſt out of the Decalogue. So that I may conclude that as <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar</hi>
+               <note n="l" place="margin">Dan. 3.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> acknowledged <hi>Shadrach, Meſhach,</hi> and <hi>Abednego</hi> to haue beene the ſer<g ref="char:EOLhyphen"/>vants
+<pb n="16" facs="tcp:176979:15"/>of God, becauſe they eſcaped the fiery furnace: ſo God giveth a remarkeable teſtimony to the Scrip<g ref="char:EOLhyphen"/>tures, that they bee his vndoubted word, by his ſo wonderfull preſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>Now it is time to proceede to the teſtimony of Scriptures.
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> But firſt I will anſwer this queſtion. Is the teſti<g ref="char:EOLhyphen"/>mony which the Scriptures giue to themſelues of ſufficient credit? Yes; For the ſame reaſons, wherewith Chriſt
+<note n="m" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 1.13.14.17.18.</note> iuſtified the record which he bare of himſelfe. (1) We know from whence the Scriptures came, even fro<g ref="char:cmbAbbrStroke">̄</g> Gods ſpirit
+<note n="n" place="margin">Pet. 1.20.21.</note> (2) The Father (as we haue proved) is a witneſſe, therefore the teſtimony of two is true, and con<g ref="char:EOLhyphen"/>ſeque<g ref="char:cmbAbbrStroke">̄</g>tly of credit. Now Chriſt ſaith
+<note n="o" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn 5.39.</note> 
+               <hi>The Scriptures,</hi> (that is the <hi>old Testa<g ref="char:EOLhyphen"/>ment,</hi> which were before Chriſt) <hi>teſtifie of me.</hi> If of Chriſt, then of his Word, that is, his Goſpell. For the woman of <hi>Samaria</hi> could tell
+<note n="p" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hn 4.25.</note> that the <hi>Meſsiah,</hi> that is, Chriſt, when he
+<pb n="17" facs="tcp:176979:15"/>came ſhould tell vs all things. It may be ſhe had heard, that <hi>Moſes</hi> prophe<g ref="char:EOLhyphen"/>cyed of Chriſt, who was to be heard in all things
+<note n="q" place="margin">Acts 7.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> Beſides, Chriſt is the corner ſtone of the foundation, (that is, doctrine) as of the Apoſtles, ſo of the Prophets. Therefore the Pro<g ref="char:EOLhyphen"/>phets giue teſtimony to Chriſt, and his word. As Moſes and the Pro<g ref="char:EOLhyphen"/>phets (that is, the old Teſtament) giue teſtimony to Chriſt, and his word, which is the doctrine of the new Teſtament: So Chriſt in thoſe words, <hi>Iohn</hi> 5.39. doth giue an ho<g ref="char:EOLhyphen"/>nourable teſtimony to the old Teſta<g ref="char:EOLhyphen"/>ment, ſaying, <hi>In them ye thinke to haue eternall life.</hi> And two of the chiefe Apoſtles giue likewiſe teſtimony to the old Teſtament. For <hi>Peter</hi> ſayth
+<note n="r" place="margin">2 Pet. 1.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Wee haue a most ſure word of the Pro<g ref="char:EOLhyphen"/>phets.</hi> Here <hi>Prophets</hi> (as <hi>Eph:</hi> 2.20. is put for the whole old Teſtament. And <hi>Paul</hi> ſayth
+<note n="ſ" place="margin">2 Tim. 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>The whole Scripture is given by inſpiration.</hi> Whereby the old Teſtament, without doubt, is
+<pb n="18" facs="tcp:176979:16"/>ſignified, &amp; the new Teſtament may be vnderſtood.</p>
+            <p>Having finiſhed this courſe of Teſti<g ref="char:EOLhyphen"/>monies to the word by way of imita<g ref="char:EOLhyphen"/>tion as well as I can, I am now to ſhew how the other three grounds doe proue this.
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aſon</hi> 5.</note> The firſt is, <hi>There is a God to be worſhipped, therefore there is a word of God to be beleeved.</hi> There be many Gods, ſo called
+<note n="t" place="margin">Cor. 8.5.</note> Every one hath his preſcribed worſhip, where<g ref="char:EOLhyphen"/>by he is honoured according to his owne minde, as <hi>Saturne</hi> had his <hi>Sa<g ref="char:EOLhyphen"/>turnalia,</hi> and drunken <hi>Bacchus</hi> his <hi>Bac<g ref="char:EOLhyphen"/>chanalia.</hi> Yea, the Scriptures intimate as much,
+<note n="u" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts 7.43.</note> 
+               <hi>Moloch</hi> had his tabernacle, and <hi>Remphan</hi> his Starre. So that the true God forbiddeth his people
+<note n="x" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eut. 12.30</note> to enquire how other Nations ſerue their Gods. Now can we think that our great, and onely true God is leſſe zealous of his glory, then falſe Gods be of their ſuppoſed honour? Hea<g ref="char:EOLhyphen"/>then men concluded otherwiſe, For when they heard that the <hi>Samaritans</hi>
+               <pb n="19" facs="tcp:176979:16"/>were devoured by Lyons, they dee<g ref="char:EOLhyphen"/>med the cauſe was, <hi>Not worſhipping the God of the Land after his owne man<g ref="char:EOLhyphen"/>ner</hi>
+               <note n="y" place="margin">2 King. 17.25.26.</note>. God hath made all things for his owne ſake, yea even the wicked for the day of evill
+<note n="z" place="margin">Prov. 16.</note>, that he may be glorified, as by all things made, ſo by the luſt condemnatio<g ref="char:cmbAbbrStroke">̄</g> of the wicked. Therefore he hath given a Word, that by holy Worſhip, according to it, he may be glorified. For by ſuch worſhip eſpecially is He glorified
+<note n="a" place="margin">Levn. 10.2.3.</note>, and therefore the Glory departed from <hi>Iſrael,</hi> when the <hi>Arke,</hi> before which <hi>Iſrael</hi> worſhipped, was taken by the <hi>Philiſtims</hi>
+               <note n="b" place="margin">1 Sam. 4.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Exod. 33.</note>: So that God did iuſtly forſake the Gentiles, becauſe, when they knew him by his Workes of Creation
+<note n="c" place="margin">Rom. 1. &amp;c.</note>, they did not glorifie him as God, by worſhipping him ac<g ref="char:EOLhyphen"/>cording to his will. That this conſe<g ref="char:EOLhyphen"/>quence may yet better appeare to be good, it is to be duely obſerved, that immediately after God, in the Deca<g ref="char:EOLhyphen"/>logue
+<note n="d" place="margin">Exod. 20.3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, required Worſhip as due to
+<pb n="20" facs="tcp:176979:17"/>him onely, he commandeth that worſhip to be according to his word, and not by mans inventions: And that, where God forbiddeth to in<g ref="char:EOLhyphen"/>quire how other Nations ſerue their Gods,
+<note n="e" place="margin">Deut. 12.30.32.</note> he commandeth to take heed to his Word. And laſtly, that when God commanded his people to ſanc<g ref="char:EOLhyphen"/>tifie him, he preſently commanded to binde vp the Teſtimony
+<note n="f" place="margin">Iſa. 8.13.16.</note>, and to ſeale vp the Law among his Diſci<g ref="char:EOLhyphen"/>ples. For (indeed) no Booke doth ſo glorifie God, as doth the Bible, there<g ref="char:EOLhyphen"/>fore it is the true Word of God
+<note n="g" place="margin">Ioh. 7.18.</note>. All that is ſaid, being well conſidered, this conſequence is good. There is a God, to wit, <hi>Iehovah,</hi> therefore there is a Word of God, <hi>viz:</hi> The olde and new Teſtament.</p>
+            <p>The other ground,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>6</label> and conſequence is this. There is a Reſurrection of the iuſt, and vniuſt to be expected, there<g ref="char:EOLhyphen"/>fore there is a Word of God, that is, the Scriptures, to be beleeved. For howſoever <hi>Cicero</hi> held the Immorta<g ref="char:EOLhyphen"/>litie
+<pb n="21" facs="tcp:176979:17"/>of the ſoule; yet the <hi>Athenian</hi> Philoſophers deemed the reſurrecti<g ref="char:EOLhyphen"/>on of the bodie to be an vnheard of point
+<note n="h" place="margin">Act. 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.32.</note>. For, indeed, it is an Article of Chriſtian faith, and not a Tenet of naturall reaſon. So that the <hi>Saddu<g ref="char:EOLhyphen"/>ces</hi> (though <hi>Iewes</hi>) reiected it
+<note n="i" place="margin">Mat. 22.33.</note>. Ther<g ref="char:EOLhyphen"/>fore if it be an Article of Faith, then the Scriptures, being the only booke, that doth clearely avouch, and proue it, muſt needs be the word of Faith. Againe; Why muſt there be a Reſur<g ref="char:EOLhyphen"/>rection? That the iuſt may ariſe vnto life, and the vniuſt vnto condemnati<g ref="char:EOLhyphen"/>on
+<note n="k" place="margin">Ioh. 5.29.</note>. For the laſt day is, The day of the generall declaration of the iuſt iudgement of God
+<note n="l" place="margin">Rom. 2.5. Dan. 12.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>. Now that God may appeare iuſt when he iudgeth, it is requiſite, that he make his Will knowne by his Word; For where no Law is, there is no tranſgreſſion
+<note n="m" place="margin">Rom. 4.15</note>. Therefore ſaith Chriſt, <hi>If I had not come, and ſpoken to them, they ſhould not haue had ſinne</hi>
+               <note n="n" place="margin">Ioh. 15.22.</note>: but now they haue no cloake for ſinne. The Gentiles
+<pb n="22" facs="tcp:176979:18"/>had not the Law
+<note n="o" place="margin">Rom. 2.12.14.15.</note>, how can they be iudged? Yes, becauſe they haue the effect of the Law written in their hearts.</p>
+            <p>The third ground,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>7</label> and conſequence is this. <hi>There is a Conſcience to be ten<g ref="char:EOLhyphen"/>dered, therefore there is a Word of God to be beleeved.</hi> For the Spirit of God, which ſpeaketh in the Scriptures, ſo inlightneth the mindes of Gods peo<g ref="char:EOLhyphen"/>ple, that the Word worketh vpon their Conſciences. That as face an<g ref="char:EOLhyphen"/>ſwereth face in Water
+<note n="p" place="margin">Prov. 27.19.</note>. So where the Spirit of the Lord is, there is ſuch li<g ref="char:EOLhyphen"/>bertie
+<note n="q" place="margin">Cor. 3.17.</note>, that is, Freedome from the vaile over our hearts, that we behold, as in a glaſſe, the glory of the LORD with open face, and are changed into the ſame image. So that the Apoſtle doth preſently affirme,
+<note n="r" place="margin">And 4.1.2.</note> That having this Miniſtry, he did not handle the Word deceitfully, but in declaration of the truth, he approoved himſelfe to every mans Conſcience. In ano<g ref="char:EOLhyphen"/>ther place,
+<note n="ſ" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſ. 4.8.</note> he thus writeth, He that
+<pb n="23" facs="tcp:176979:18"/>deſpiſeth theſe things, deſpiſeth not man but God, who hath even given you his holy Spirit. Which is as if he ſhould ſay, The Spirit of God, in your reading, cannot but acknowledg the ſame Spirit in me writing, therefore take heede how yee deſpiſe thoſe things. It may be obſerued, that the more godly any is, the more readily doth his Conſcience reflect vpon the Word. Which is intimated by the A<g ref="char:EOLhyphen"/>poſtle, ſaying,
+<note n="t" place="margin">1 Cor. 2.6.</note> I ſpeake Wiſedome a<g ref="char:EOLhyphen"/>mong them that are perfect. Nay; the Conſciences of them, who are not perfect, are mooved by the Word. The vnlearned man, the ſecrets of whoſe heart are made manifeſt by Prophecy
+<note n="u" place="margin">1 Cor 14.24.25.</note>, (that is, powerfull Prea<g ref="char:EOLhyphen"/>ching the Word) is compelled, in Conſcience, to ſay, God is in the Preacher indeede: And <hi>Agrippa</hi> was by <hi>Pauls</hi> Preaching, (though he a priſoner) compelled, in conſcience, to ſay
+<note n="x" place="margin">Acts. 16.27.28.</note>; <hi>Almoſt thou perſwadeſt me to become a Chriſtian.</hi> So that the con<g ref="char:EOLhyphen"/>ſcience
+<pb n="24" facs="tcp:176979:19"/>giueth an evident teſtimony to the Word of God. All then due<g ref="char:EOLhyphen"/>ly conſidered, we may collect, and conclude, &amp;c.</p>
+            <p>Firſt, if the Church of God, through<g ref="char:EOLhyphen"/>out all ages, haue avouched the olde, and new Teſtament to be the Word of God. Secondly, if, howſoever the Scriptures be for the moſt part, ſim<g ref="char:EOLhyphen"/>ple, and plaine, yet, Gods Spirit wor<g ref="char:EOLhyphen"/>king by them, they be mightie in o<g ref="char:EOLhyphen"/>peration. Thirdly, if the Scriptures conteine many Prophecies of great things, which accordingly came to paſſe in due time. Fourthly, if God gaue teſtimony to the olde, and new Teſtament, by a voyce from heaven. Fiftly, if he confirmed them by mira<g ref="char:EOLhyphen"/>cles. Sixtly, if he haue wonderfully preſerved them vnto this time. Se<g ref="char:EOLhyphen"/>venthly, if the olde Teſtament giue teſtimony to the new, and the new to the olde; as <hi>Moſes</hi> to <hi>Chriſt,</hi> and <hi>Chriſt</hi> to <hi>Moſes.</hi> Eightly, if it follow, that, If there be a God to be worſhipped, <hi>viz.</hi>
+               <pb n="25" facs="tcp:176979:19"/>The God of <hi>Iſrael,</hi> there muſt needes be a Word, <hi>viz:</hi> the Scriptures, that according to them he may be wor<g ref="char:EOLhyphen"/>ſhipped. Ninthly, if it be a good con<g ref="char:EOLhyphen"/>ſequence, A Reſurrection of the iuſt, and vniuſt is to be expected, therefore there is a Word of God, <hi>viz.</hi> the Scriptures, that God may appeare iuſt, when he iudgeth in the laſt day; And tenthly, if this be a ſound <hi>En<g ref="char:EOLhyphen"/>thymeme,</hi> There is a Conſcience, ther<g ref="char:EOLhyphen"/>fore the Scriptures be the Word of God; Becauſe the Conſcience, both of perfect Chriſtians, and other, doth giue an evident teſtimony to them; then, There is a Word of God, <hi>viz.</hi> the olde, and new Teſtament, to be beleeved.</p>
+            <p>Here (perhaps) ſome would expect a reſolution of the queſtion betweene the <hi>Papiſts,</hi> and vs, touching the <hi>Apo<g ref="char:EOLhyphen"/>cryphall</hi> Writings, <hi>viz. Eſdras, Tobit, &amp;c.</hi> Whether they be parts of the Ca<g ref="char:EOLhyphen"/>nonicall Scriptures, or no. I told you, when I firſt entred vpon this Text,
+<pb n="26" facs="tcp:176979:20"/>that it offereth iuſt occaſion of diſ<g ref="char:EOLhyphen"/>cuſſing many points of Religion, fit<g ref="char:EOLhyphen"/>ter for the Schooles, than for this Auditory: Yet becauſe many take occaſion to deeme thoſe Writings to be Canonicall, becauſe they are ordinarily bound in the midſt of them, (notwithſtanding the wall of ſeparation, prudently and provident<g ref="char:EOLhyphen"/>ly ſet, by Authoritie, betweene the Bookes of the olde Teſtament, and them, I meane, the title <hi>[Apocrypha]</hi> with a declaration of the meaning therof, I will ſhew you my iudgment in a few words. I deeme them, or moſt of them, Writings worthy of reve<g ref="char:EOLhyphen"/>rend eſtimation for their antiquitie, and many things worthy diligent reading: But I deny them to be Ca<g ref="char:EOLhyphen"/>nonicall, that is, the wordes of God, or Rules, whereby our Faith is to be ſquared. For we are to be builded onely vpon the foundation of the Apoſtles, and Prophets, Chriſt him<g ref="char:EOLhyphen"/>ſelfe being the corner ſtone
+<note n="y" place="margin">Epheſ. 2.20.</note>. For re<g ref="char:EOLhyphen"/>verence
+<pb n="27" facs="tcp:176979:20"/>to thoſe Writings, and for my words ſake, I forbeare to note ob<g ref="char:EOLhyphen"/>liquities in them, ſuch as are ſuffici<g ref="char:EOLhyphen"/>ent to demonſtrate that they be not endited by the Spirit of God. I there<g ref="char:EOLhyphen"/>fore deſire you to conſider but this one Argument. If they be parts of Canonicall Scriptures, they are parts either of the olde, or of the new Te<g ref="char:EOLhyphen"/>ſtament: But they are parts of nei<g ref="char:EOLhyphen"/>ther; Therefore they are no parts of the Canonicall Scriptures. I never heard that any <hi>Papiſt</hi> affirmed them to be parts of the new Teſtament. And (indeed) their antiquitie, and contents doe manifeſt that they were written before any part of the new Teſtament was written. To prooue that they be not parts of the olde Teſtament, I will not vrge a reaſon of <hi>Hierom</hi>
+               <note n="z" place="margin">In Prolog<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Galeato.</note>, <hi>viz:</hi> They are not in the Regiſter of divine Bookes, which the <hi>Iewes</hi> preſerved: but deſire this to be co<g ref="char:cmbAbbrStroke">̄</g>ſidered, that they be in Greeke, whereas all the Bookes of the olde
+<pb n="28" facs="tcp:176979:21"/>Teſtament be in Hebrew. So (with<g ref="char:EOLhyphen"/>out doubt) had theſe beene likewiſe, had they beene written by inſpirati<g ref="char:EOLhyphen"/>on of the Holy Ghoſt. For the Ora<g ref="char:EOLhyphen"/>cles of God, the giving of the Law, the ſervice of God, and the promiſes pertained to the <hi>Iſraelites</hi>
+               <note n="a" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>. If theſe were amongſt them, ſhould they not haue beene in the ſame Language? Againe; The Law, and the Prophets were read in the Synagogues of the <hi>Iewes</hi>
+               <note n="b" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.</note>. If theſe Writings were a<g ref="char:EOLhyphen"/>mongſt them, ſhould not they alſo haue beene read? But ſurely <hi>Popery</hi> had not then prevailed, to perſwade the Scriptures to be read in a ſtrange language to the people aſſembled on the Sabbath day. Therefore I may conclude, that the Apocryphall Wri<g ref="char:EOLhyphen"/>tings are no parts of the Canonicall Scriptures.</p>
+            <p>Now am I to proceede on to Vſes to be builded vpon this ground of Religion. There is a Word of God, <hi>viz:</hi> The Bible, conſiſting of the olde
+<pb n="29" facs="tcp:176979:21"/>and new Teſtament, to be beleeved. If this be true indeed, then the holy Scriptures are to be highly eſteemed, as the vndoubted Word of God. For, as when we know God, if we doe not glorifie him as God
+<note n="c" place="margin">Rom. 1.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, he will not be better pleaſed with vs, than he was with the Gentiles: ſo if we acknow<g ref="char:EOLhyphen"/>ledge the truth of this Doctrine, and doe not eſteeme the Word as the Word of God, wee ſhall be iudged as deſpiſers of it. For not to regard, as we ſhould, is to deſpiſe. As <hi>Timothy</hi> had beene deſpiſed
+<note n="d" place="margin">1 Cor. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.11.</note>, if (notwithſtan<g ref="char:EOLhyphen"/>ding his youth) the <hi>Corinthians</hi> had not convoyed him on his Iourney towards <hi>Paul,</hi> ſeeing he wrought the worke of the Lord, as <hi>Paul</hi> did. And Chriſt maketh not hearing, and de<g ref="char:EOLhyphen"/>ſpiſing the Word Preached by the ſe<g ref="char:EOLhyphen"/>ventie
+<note n="e" place="margin">Luk. 10.16.11.</note> to be aequivalent. How in<g ref="char:EOLhyphen"/>dignely this deſpiſing is taken, ſhak<g ref="char:EOLhyphen"/>ing of duſt, and leſſening of the iudg<g ref="char:EOLhyphen"/>ments of <hi>Tyrus,</hi> and <hi>Sidon,</hi> in compa<g ref="char:EOLhyphen"/>riſon doe demonſtrate. Therefore let
+<pb n="30" facs="tcp:176979:22"/>vs imitate <hi>David,</hi> who eſteemed the Word better than Gold, yea than much fine Gold
+<note n="f" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 19.10.</note>; and the Merchant, who ſolde all he had to buy a Pearle of price
+<note n="g" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at. 13.45.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note>. And let vs deſerue the commendations which <hi>Paul</hi> giveth to the <hi>Theſſalonians</hi>
+               <note n="h" place="margin">Theſ. 2.13.</note>, for receiving the Word, not as the Word of men, but as the Word of God. Suppoſe a true religious man had the onely Bi<g ref="char:EOLhyphen"/>ble in the world, would he part with it, thinke yee, for the richeſt Iewel in the World? If a Booke being the Workmanſhip of a man be worthily ſo to be eſteemed for the Contents ſake, how highly are we to eſteeme the doctrine of the Bible, being the Word of God? But how are we to manifeſt our high eſtimation of the Word of God? Not chiefely by bin<g ref="char:EOLhyphen"/>ding the Bible faire, though that ſheweth ſome good reſpect thereof: Nor by ſetting it handſomely in the Window, or ſome eminent place, and never, or ſeldome reade therein: But
+<pb n="31" facs="tcp:176979:22"/>by hearing, beleeving, and obeying it as the Word of God.</p>
+            <p>In ſuch hearing,
+<label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> two things are re<g ref="char:EOLhyphen"/>quired, Readie diligence, and Reli<g ref="char:EOLhyphen"/>gious reverence. Touching the for<g ref="char:EOLhyphen"/>mer it is Prophecied; That in the laſt dayes, Chriſt his people ſhall come willingly at the time of Aſſembly, as an Army in holy beautie
+<note n="i" place="margin">Pſal. 110<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>: and, That many people ſhall flow to the houſe of the Lord
+<note n="k" place="margin">Iſa. 2.2.</note>, inciting one another. And why? Becauſe the Word of the Lord goeth from <hi>Ieruſalem.</hi> This is to ſeeke after the knowledge of Gods will in his Word, as for treaſure
+<note n="l" place="margin">Prov. 2.</note>. Ac<g ref="char:EOLhyphen"/>cording to thoſe Prophecies. The Kingdome of God was Preached, and every man preſſed vnto it
+<note n="m" place="margin">Luk. 16.</note> after the comming of <hi>Iohn Baptiſt.</hi> The A<g ref="char:EOLhyphen"/>poſtles would not goe from Chriſt
+<note n="n" place="margin">Ioh. 6.67.68.</note>, (as ſome Diſciples did) becauſe He had the words of eternall life. And <hi>Cornelius</hi> a Captaine, when he heard that <hi>Peter</hi> ſhould tell him what he ought to doe, ſent immediately for
+<pb n="32" facs="tcp:176979:23"/>him, and having called together his kinſmen, and ſpeciall friends, waited for him
+<note n="o" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct. 10.5.6.7 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.33.</note>, and were ready to heare whatſoever he ſhould ſay from God. Hereby are condemned ſuch as haue ſmall zeale in repairing to the Word, but abſent themſelues vpon ſmall oc<g ref="char:EOLhyphen"/>caſions, as prooving of Oxen
+<note n="p" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uk. 14.19.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note>, with whom God is angry. Such as remem<g ref="char:EOLhyphen"/>ber not the Sabbath day, ſo as to diſ<g ref="char:EOLhyphen"/>poſe of their buſineſſe, that they may be ready in due time to attend the Word. They will remember, and pleade, that it is a day of reſt, &amp; ſleepe the longer that day: But they forget that the reſt muſt be holy to the Lord
+<note n="q" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od. 31.15.</note>. Yea ſuch are hereby condem<g ref="char:EOLhyphen"/>ned, who though they ſeeme to haue ſome mind to heare the Word Prea<g ref="char:EOLhyphen"/>ched, and therefore caſt to come to that betime, yet are not diligent to come to heare the Word read. As if the Word read be not to be regarded as the Word of God, and, As if it be not neceſſary that Gods people
+<pb n="33" facs="tcp:176979:23"/>ſhould know, in ſome meaſure, the letter, and body of the Scriptures; Wherevnto they cannot attaine by hearing onely thoſe ſmall Texts wherevpon Preachers Diſcourſe. Therefore Chriſtian Churches haue well imitated the auncient people of God
+<note n="r" place="margin">Act. 13.1. &amp; 15.21<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, in appointing the Scriptures to be read in the great Congregati<g ref="char:EOLhyphen"/>ons, eſpecially on the Lords day, ſo as the body thereof may be read over againe, and againe in time. Where<g ref="char:EOLhyphen"/>vnto if the people doe not diligently reſort, eſpecially ſuch as want lear<g ref="char:EOLhyphen"/>ning, leiſure, or Bibles to reade, doe they eſteeme the Word read as the Word of God?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> A ſecond thing required in hea<g ref="char:EOLhyphen"/>ring the word, as the word of God, is religious reverence. When we pray we ſpeake to God, &amp; then we kneele
+<note n="ſ" place="margin">Pſal. 95<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, or ſhould doe: when the word is read, or preached, God ſpeaketh to vs, and ſhall we not heare him with religious reverence? We heare the
+<pb n="34" facs="tcp:176979:24"/>Iudge giving a charge in the Aſſiſes, with vncovered heads, and all civill reverence, and ſhall not our demea<g ref="char:EOLhyphen"/>nure be religiouſly reverent, when God ſpeaketh vnto vs in his word? <hi>Moſes</hi> was to put off his ſhooes be<g ref="char:EOLhyphen"/>cauſe of the preſence of God ſpeak<g ref="char:EOLhyphen"/>ing out of a burning buſh:
+<note n="t" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od. 3.4.5.9.10.11.17.</note> And the people were to be ſanctified when they were to meete with God ſpeak<g ref="char:EOLhyphen"/>ing the tenne Commaundements. When we heare the word preached wee are in Gods ſpeciall preſence, therefore wee are exhorted by the Spirit
+<note n="u" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cleſ. 5.1.</note> 
+               <hi>to looke to our feete before we en<g ref="char:EOLhyphen"/>ter into the houſe of God, and bee more ready to heare, than to offer the ſacrifice of fooles.</hi> And Chriſt ſtood when he read his text
+<note n="x" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke 4.16.20.</note>: but he ſat after, when he preached. All this doth ſhew, that the word is to be heard with religi<g ref="char:EOLhyphen"/>ous reverence. Yea there be ſome learned Divines, who hold that men ought to be vncovered, that is, put off their hatts the whole Sermon
+<pb n="35" facs="tcp:176979:24"/>while. But for my part, I dare not preciſely binde the conſcience of a<g ref="char:EOLhyphen"/>ny man to this, or that particular de<g ref="char:EOLhyphen"/>monſtration of religious reverence. Though I graunt that a Sermon is to be heard with religious reverence as well as the word read: For Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell are the meſſen<g ref="char:EOLhyphen"/>gers of God (as were the Prieſts of the Law
+<note n="z" place="margin">Mal. 2.7. 2 Cor. 5.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Cor. 4. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>) and it is to be preſumed, that their lips alſo preſerue knowledge, therefore people muſt, with religious reverence, hearken to the word from their mouth. Heereby are condem<g ref="char:EOLhyphen"/>ned ſuch as come to Wiſedomes feaſt
+<note n="a" place="margin">Prou 9.3.</note> without a wedding garment
+<note n="b" place="margin">Math. 22.</note>, that is, due preparation and fitneſſe. As alſo ſuch as ſleepe, talke, gaze a<g ref="char:EOLhyphen"/>bout, or otherwiſe haue their minds drawne from hearing the word. Is this to haue either their eyes faſtned
+<note n="c" place="margin">Luke 4.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> vpon the Preacher, or to haue hearts opened by the Lord
+<note n="d" place="margin">Acts 16. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> to hearken to his word?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> It is not a ſufficient eſtimation of
+<pb n="36" facs="tcp:176979:25"/>the Word to repaire therevnto with diligence, and to heare it with reve<g ref="char:EOLhyphen"/>rence, except we beleeue it as the Word of God. For if the Word be not mixed with Faith in thoſe that heare it
+<note n="e" place="margin">Hebr. 4.2.</note>, it will not profit them vnto either reformation, aedification, or conſolation, which are the effects of Prophecy
+<note n="f" place="margin">1 Cor. 14.3.24.25.</note>, that is, of powerfull Prea<g ref="char:EOLhyphen"/>ching. Againe; He, who beleeveth the Word ſo as to receiue
+<note n="g" place="margin">Ioh. 1.12.</note>, that is, to beleeue the teſtimony thereof, doth ſeale that God is true
+<note n="h" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; 3.33.34.</note>: But God is true (I may adde, <hi>Abſolutely</hi>) and to be iuſtified in his wordes
+<note n="i" place="margin">Rom. 3.4.</note>; I may adde, <hi>becauſe they be abſolutely true as God is.</hi> Therfore they are to be heard with Faith, reſting vpon them abſo<g ref="char:EOLhyphen"/>lutely without all doubting of their truth. For the Word of God is called the <hi>Faith of God</hi>
+               <note n="k" place="margin">Rom. 3.3.</note>: Which intimateth, that if we beleeue Faith to be in God, we muſt beleeue his Word accor<g ref="char:EOLhyphen"/>dingly. This is a maine difference be<g ref="char:EOLhyphen"/>tweene the Word of God (which is
+<pb n="37" facs="tcp:176979:25"/>to be heard with Faith howſoever it croſſe our iudgement; for Faith ſur<g ref="char:EOLhyphen"/>mounteth Reaſon) and the Word of man, which is no further to be belee<g ref="char:EOLhyphen"/>ved, than it agreeth with the Word, which is, Truth it ſelfe
+<note n="l" place="margin">Ioh. 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>: For every man is by nature, a Lyar
+<note n="m" place="margin">Rom. 3.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, and there<g ref="char:EOLhyphen"/>fore is not to be iuſtified in all his wordes. So that, Gods people may lawfully (ſo it be with Diſcretion, and Humilitie) examine the Doctrine, by what Preacher ſoever delivered, whe<g ref="char:EOLhyphen"/>ther it be warranted by the Scrip<g ref="char:EOLhyphen"/>tures, or no, if the truth thereof be not evident to them, as did the no<g ref="char:EOLhyphen"/>bly-minded <hi>Beraeans</hi>
+               <note n="n" place="margin">Acts. 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.11.</note>. But if the truth of the Word be delivered to their Conſciences, then muſt they beleeue it without any demurring. So the Apoſtles beleeved that Chriſt his fleſh is meat indeed, and his bloud drinke indeed
+<note n="o" place="margin">Ioh. 6.55.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.61.66.67.6<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, and followed him without any offence, becauſe he had the words of eternall life, whereas o<g ref="char:EOLhyphen"/>ther ſeeming Diſciples were offen<g ref="char:EOLhyphen"/>ded,
+<pb n="38" facs="tcp:176979:26"/>and gaue over following Chriſt, becauſe it ſeemed to their naturall reaſon to be an hard ſaying. So <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>
+               <note n="p" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 4.18.19.20.21.</note> 
+               <hi>aboue hope,</hi> in regard of his olde age, and his wife's barrenneſſe, but <hi>vnder hope</hi> in regard of Gods power, beleeved the Word of God, promi<g ref="char:EOLhyphen"/>ſing to make him a Father of many Nations. So <hi>Hezekiah</hi>
+               <note n="q" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 39.5.6.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8.</note> (though a King) was not angry with the Pro<g ref="char:EOLhyphen"/>phet, prophecying moſt grievous things to him, but beleeved his Pro<g ref="char:EOLhyphen"/>phecy (ſo croſſing natural affections) as the VVord of God, and ſayd, <hi>The Word of the Lord is good.</hi> Here I ſup<g ref="char:EOLhyphen"/>poſe, it will be ſome comfort to know how yee may iudge of your ſelues in the time of hearing, whe<g ref="char:EOLhyphen"/>ther the VVord be mixed with faith; I'le ſhew you. If your hearts anſwer Gods VVord, as did <hi>Davids,</hi> when God ſayd
+<note n="r" place="margin">Pſal. 27.8.</note>, <hi>Seeke yee my face,</hi> his heart anſwered, <hi>O Lord, I will ſeeke thy face.</hi> For Faith is ſuch an aſſent to every VVord of God, as produceth affec<g ref="char:EOLhyphen"/>tions,
+<pb n="39" facs="tcp:176979:26"/>and actions anſwerable to the VVord, wherevnto the heart aſſen<g ref="char:EOLhyphen"/>teth. So that when <hi>Iohn Baptiſt</hi> Prea<g ref="char:EOLhyphen"/>cheth Repentance
+<note n="ſ" place="margin">Math. 11.1.16.17.18.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>, we grieue in the ſenſe of ſinne: and when Chriſt Prea<g ref="char:EOLhyphen"/>cheth the Goſpell, we are comforted in hope of forgiuenenſſe.</p>
+            <p>Hereby are condemned ſuch as are like thoſe proud men
+<note n="t" place="margin">Iere. 43.2.</note>, who tolde <hi>Ie<g ref="char:EOLhyphen"/>remy,</hi> that he ſpake falſely when he delivered the Word of God which croſſed their purpoſes. Secondly, Such as be like the Prince
+<note n="u" place="margin">2 King. 7.1.2.17.</note>, who con<g ref="char:EOLhyphen"/>traried the Word of God touching ſuddaine cheapneſſe of Corne, be<g ref="char:EOLhyphen"/>cauſe it was contrary to his ſenſuall reaſon: But the Word was fulfilled, and he periſhed. And thirdly, Moc<g ref="char:EOLhyphen"/>kers
+<note n="x" place="margin">2 Pet. 3.3.4.</note>, which, in theſe laſt dayes, will walke after their luſts, not beleeving the promiſe of Chriſt his comming to iudgement, becauſe it is deferred. Yea, fourthly, thoſe weake ones, who are like to <hi>David</hi>
+               <note n="y" place="margin">Pſal. 116.11.</note>, who ſayd in his feare, <hi>All men be lyars,</hi> meaning eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="40" facs="tcp:176979:27"/>
+               <hi>Samuel,</hi> who annointed him to be King
+<note n="z" place="margin">Sam. 16.13</note>: But before he got the Crowne, <hi>Saul</hi> ſo perſecuted him, that he doubted of the word which <hi>Samu<g ref="char:EOLhyphen"/>el</hi> had ſpoken. Fiftly, Much more are they hereby condemned, who, out of an humour troubled by the Word, doe cavill againſt it, contrary to the Apoſtle <hi>Iames</hi> his exhortation,
+<note n="a" place="margin">Tam. 1.21.19</note> 
+               <hi>That we ſhould receiue the Word with meekneſſe, and therefore ſhould be ſwift to heare ſlow to ſpeake, &amp; ſlow to wrath.</hi> For <hi>Wrath,</hi> becauſe the VVord croſ<g ref="char:EOLhyphen"/>ſeth our mind, ſtirreth vp the tongue vnto gain-ſaying, and therefore the VVord is not beleeved as the Word of God. Sixtly, Hereby are condem<g ref="char:EOLhyphen"/>ned ſuch as deſpayre in the time of affliction, and doe not liue by Faith
+<note n="b" place="margin">Hab. 2.3.4.</note>, waiting for the appointed time when the viſion will ſpeake comfort. And ſeaventhly, ſuch as like the <hi>Elders</hi> of <hi>Iſrael</hi>
+               <note n="c" place="margin">Ezek. 14.1.3.</note>, ſet vp Idols in their hearts, which are ſtumbling blockes of ini<g ref="char:EOLhyphen"/>quitie, ſtopping the way betweene
+<pb n="41" facs="tcp:176979:27"/>the VVord, and Faith, ſo as they cannot be mixed in them that heare, I meane thoſe who heare the Word with preiudicate opinions, <hi>Papiſts</hi> or other, who will ſtop their eares, and not heare the Word, ſo as to beleeue it as the Word of God, <hi>charme the charmer never ſo wiſely</hi>
+               <note n="d" place="margin">Pſal. 58.5.</note>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>5</label> The third thing required to mani<g ref="char:EOLhyphen"/>feſt our high eſtimation of the Word, is, To obey it as the Word of God. For to heare the Word, and not to o<g ref="char:EOLhyphen"/>bey it, is deemed by God a <hi>caſting it away</hi>
+               <note n="e" place="margin">1 Sam. 15.22.23.</note>. Therefore wee deceiue our ſelues, though we be hearers, if we be not doers alſo of the Word
+<note n="f" place="margin">Iam. 1.22.</note>: But what is required of vs that we may o<g ref="char:EOLhyphen"/>bey the Word as the Word of God? I anſwere, many things. Among the reſt eſpecially, Abſolute obedience to whatſoever the Word comman<g ref="char:EOLhyphen"/>deth, without making any queſtion, or difficultie. For God is of abſo<g ref="char:EOLhyphen"/>lute authoritie, and therfore we pray,
+<note n="g" place="margin">Math. 6.10.</note> 
+               <hi>Thy will be done on earth, as it is in
+<pb n="42" facs="tcp:176979:28"/>heaven:</hi> and, His Word is perfect, and right
+<note n="h" place="margin">Pſal. 19.7.8.</note>, Therefore our abſolute obedience is not blinde, as is the o<g ref="char:EOLhyphen"/>bedience of Ieſuites to their ſuperi<g ref="char:EOLhyphen"/>ours, whom they muſt obey, though they command the killing of Prin<g ref="char:EOLhyphen"/>ces, not inquiring after the lawful<g ref="char:EOLhyphen"/>neſſe of ſuch a Commandement: But their ſuperſtitious, and blinde o<g ref="char:EOLhyphen"/>bedience condemneth vs, if we yeeld not abſolute obedience to the Word of God, which is of abſolute autho<g ref="char:EOLhyphen"/>ritie, and altogether without errour. So be not the Commandements of the Pope, or of any humane Superi<g ref="char:EOLhyphen"/>our whomſoever Let vs conſider ſome few examples of obedience to the Word, as to the Word of God. That vnmatchable example of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> may well be <hi>Inſtar omnium,</hi> who obeying the Word of God, ſpa<g ref="char:EOLhyphen"/>red not <hi>Iſaac</hi> his onely ſonne
+<note n="i" place="margin">Gen. 22.1.2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.9.10.16.</note>, be<g ref="char:EOLhyphen"/>gotten in his olde age
+<note n="k" place="margin">And 21.2.</note>, and in both theſe reſpects dearely beloved; Yea, the Sonne of Promiſe
+<note n="l" place="margin">Gal. 4.28.</note>; with whom,
+<pb n="43" facs="tcp:176979:28"/>and his ſeede, God promiſed to e<g ref="char:EOLhyphen"/>ſtabliſh an everlaſting Covenant
+<note n="m" place="margin">Gen. 17.19.</note>: But without pleading any of theſe things
+<note n="n" place="margin">Zach. 12.</note>, aroſe early to goe to ſacrifice him, with his owne handes. Now wheras <hi>Abraham</hi> is the Father of all
+<note n="o" place="margin">Rom. 4.1</note>, who walke in the ſteps of his Faith, I will tell you one other example of his obedience to the Word of God, which is remarkeable too, the rather becauſe the Spirit of God taketh ſpe<g ref="char:EOLhyphen"/>ciall notice thereof
+<note n="p" place="margin">Heb. 11.</note>, ſhewing vs that <hi>Abraham</hi> obeyed God commanding him to goe he knew not whither. VVhich laſt words imply, that he o<g ref="char:EOLhyphen"/>beyed readily without queſtioning whether dangers were in the way, and what commodious dwelling was in the place wherevnto he ſhould goe; therefore it is ſaid, that by <hi>Faith he obeyed.</hi> So alſo it is written in the ſame Chapter, Verſe 17. that <hi>Abra<g ref="char:EOLhyphen"/>ham offered vp Iſaac by Faith.</hi> Where<g ref="char:EOLhyphen"/>by the Spirit of God intimateth, that in both theſe obediences, <hi>Abraham</hi>
+               <pb n="44" facs="tcp:176979:29"/>eſteemed the Commandements, as the words of God. I ſhall expreſſe this point yet more plainely by an example of <hi>Peters</hi> walking vpon the Sea at Chriſt his bidding
+<note n="q" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 14.34.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.36.37.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.39.</note>. But note, that <hi>Peter</hi> perceiving that it was Chriſt, and not a Spirit, as he, and his fellowes feared, who walked on the Sea in the night, ſayd, Maſter, if it be thou, bid me come vnto thee on the water. Which ſheweth how highly he eſteemed of Chriſt his Word, perſwaded that obeying it he ſhould neither tempt God
+<note n="r" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.5.6.7.</note>, nor pe<g ref="char:EOLhyphen"/>riſh by going on the water. I will adde but another example, wherein yee may ſee both the Wiſdome of the fleſh, and obedience of Faith. <hi>Naaman</hi> was directed
+<note n="ſ" place="margin">King. 5.10 12.13.14.</note> by a meſſenger from <hi>Eliſha,</hi> to waſh himſelfe in <hi>Ior<g ref="char:EOLhyphen"/>dan</hi> for cure of his leproſie; He went away murmuring; But perſwaded by his ſervants to haue due regard of the Prophets word, he obeyed, and was cured.</p>
+            <pb n="45" facs="tcp:176979:29"/>
+            <p> Hereby are condemned (1) rebel<g ref="char:EOLhyphen"/>lious hearers of the word, who ſay, The word which thou haſt ſpoken vnto vs in the name of the Lord, wee will not heare
+<note n="t" place="margin">Ier. 44.16.</note>: but we will doe what we thinke good, and as our Princes, and Fathers before vs haue done. (2) Preſumptuous hearers, who bleſſe themſelues in their hearts
+<note n="u" place="margin">Deut. 29.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, when they heare iudgements out of the word againſt their ſinnes, and ſo adde drunkenneſſe to thirſt: but God will not be mercifull to ſuch. (3) Hy<g ref="char:EOLhyphen"/>pocriticall hearers, who call one vp<g ref="char:EOLhyphen"/>on another
+<note n="x" place="margin">Ezek. 33.30.31.</note> to heare the word, and ſit before the Preacher, as reverently as others, but they make a ieſt of it, and will not obey it. And (4) ſuch as pretend obedience to the word out of a ſudden flaſh of zeale, like the young man
+<note n="y" place="margin">Mark. 10.17.21.22.</note> who came running, and kneeling to Chriſt, to know what he might doe for eternall life: But when Chriſt bad him ſell, and giue all to the poore, and follow him, hee went
+<pb n="46" facs="tcp:176979:30"/>away ſorrowfull; for he was rich: So, many, when the word reprooveth them for drunkenneſſe, are grieved for the preſent, confeſſe it is their ſinne, and wiſh they could leaue it, but they doe not.</p>
+            <p>I haue told you of ſome to be con<g ref="char:EOLhyphen"/>demned for not beleeving, and of o<g ref="char:EOLhyphen"/>thers, for not obeying the word as the word of God; Now I muſt tell you of the Antichriſtian Synagogue of Rome, which ſhamefully offen<g ref="char:EOLhyphen"/>deth in both thoſe reſpects, in taking the ſecond Commaundement out of the Decalogue, as hath beene ſaid, contrary to the expreſſe word of God; who giveth this peremptorie charge
+<note n="a" place="margin">Deut. 12.32.</note>, <hi>Whatſoever I commaund you, take heede you doe it. Thou ſhalt put nothing thereto, nor take ought there-from.</hi> If the <hi>Papists</hi> did beleeue the word, as the word of God, durſt they thus abuſe ignorant people? God deliver vs from vnrea<g ref="char:EOLhyphen"/>ſonable, and evill men
+<note n="b" place="margin">Theſ. 3.2.</note>: for all men
+<pb n="47" facs="tcp:176979:30"/>haue not faith. Now; why doe they this? Even becauſe they are ſo ad<g ref="char:EOLhyphen"/>dicted to Idolatry, that deſpiſing the cenſure of Chriſt, <hi>Mat.</hi> 5.19. they will neither obey this word of God themſelues
+<note n="c" place="margin">Mat. 5.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, nor ſuffer the people to obey it, in not worſhipping Ima<g ref="char:EOLhyphen"/>ges. For they feare, that if it were publiſhed in their Catechiſmes, the people would, in time, abhorre that <hi>babiſh,</hi> and <hi>Babyloniſh</hi> Idolatry, ob<g ref="char:EOLhyphen"/>ſerving how preciſely that comman<g ref="char:EOLhyphen"/>dement forbiddeth the worſhipping of Images, and how iealous God is thereof. And the more, when they know and conſider, that the whole Decalogue was written twice in Ta<g ref="char:EOLhyphen"/>bles of Stone
+<note n="d" place="margin">Exod. 3.18. and 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and 20.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, with the finger of God; which argueth the perpetui<g ref="char:EOLhyphen"/>tie thereof, and that the Commande<g ref="char:EOLhyphen"/>ment forbidding worſhipping of I<g ref="char:EOLhyphen"/>mages is twice recorded by the Spi<g ref="char:EOLhyphen"/>rit
+<note n="e" place="margin">Deut. 5.</note>, as the ſecond of the ten Com<g ref="char:EOLhyphen"/>mandements ſpoken by God him<g ref="char:EOLhyphen"/>ſelfe. But I pray you take know<g ref="char:EOLhyphen"/>ledge
+<pb n="48" facs="tcp:176979:31"/>of moſt damnable couſenage, <hi>viz.</hi> Becauſe the Scriptures ſay ex<g ref="char:EOLhyphen"/>preſſely, that God wrote ten Com<g ref="char:EOLhyphen"/>mandements in the two Tables
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eut. 10.4.</note>, and the people generally know that there muſt be ten Commandements, they divide the tenth Commandement, and make <hi>Thou ſhalt not covet thy neighbours wife,</hi> the ninth; and <hi>Thou ſhalt not covet thy neighbours houſe, &amp;c.</hi> the tenth. Note further, I pray you, as couſenage, ſo groſſe abſurdi<g ref="char:EOLhyphen"/>tie; For the Commandement conſi<g ref="char:EOLhyphen"/>ſteth onely in theſe words, <hi>Thou ſhalt not covet;</hi> So that it is abſurd to ſay that there be ſo many Commande<g ref="char:EOLhyphen"/>ments as there be obiects of cove<g ref="char:EOLhyphen"/>ting mentioned, as Oxe, Aſſe, &amp;c. Were it not abſurd to make two Commandements of the fifth, be<g ref="char:EOLhyphen"/>cauſe therein be mentioned two ob<g ref="char:EOLhyphen"/>iects, (<hi>viz.</hi> Father, and Mother) of Honour, the dutie commanded. If it be ſayd, that Honour is but once commanded, whereas Coveting is
+<pb n="49" facs="tcp:176979:31"/>twice forbidden, yea ſo, as that Co<g ref="char:EOLhyphen"/>veting a neighbours wife is firſt for<g ref="char:EOLhyphen"/>bidden, as if there were a kinde of reſpect to the ſeaventh Commande<g ref="char:EOLhyphen"/>ment: and Coveting a neighbours houſe, is forbidden afterward, as if there were a kinde of reſpect to the eight Commandement: I anſwer. All (yet) is but <hi>Coveting;</hi> which is twice vrged, becauſe more know<g ref="char:EOLhyphen"/>ledge ſhould be taken of the Com<g ref="char:EOLhyphen"/>mandement: For if <hi>Paul</hi> had not knowne <hi>Lust</hi> to be a ſinne
+<note n="g" place="margin">Rom. 7.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, had not this Commandement forbidden it, how would others haue knowne it? But further, I anſwere; That how<g ref="char:EOLhyphen"/>ſoever, indeed, not-coveting a wife be firſt ſet downe <hi>Deut.</hi> 5.21. yet not<g ref="char:EOLhyphen"/>coveting an houſe is firſt ſet downe <hi>Exod.</hi> 20.17. Which ſheweth that not-coveting houſe, wife, &amp;c. is for<g ref="char:EOLhyphen"/>bidden by one, and the ſame Com<g ref="char:EOLhyphen"/>mandement. Haue not we cauſe to thanke God, that we are delivered from Popery, which is the Myſtery of iniquitie?</p>
+            <pb n="50" facs="tcp:176979:32"/>
+            <p> Here (it may be) ſome will grant that the Word ſpoken by God, or Chriſt, who was God as well as man
+<note n="h" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath. 1.23.</note>, is to be beleeved, and obeyed abſo<g ref="char:EOLhyphen"/>lutely without any doubting, or que<g ref="char:EOLhyphen"/>ſtioning: But they thinke, that the doctrine of others is not ſo to be be<g ref="char:EOLhyphen"/>leeved, and obeyed. Let ſuch remem<g ref="char:EOLhyphen"/>ber that God approoved the minde of the people, deſiring that GOD would ſpeake to them no more him<g ref="char:EOLhyphen"/>ſelfe
+<note n="i" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 5.25.26.27.28.</note>, and promiſing to heare, and doe whatſoever God ſhall ſpeake vn<g ref="char:EOLhyphen"/>to them by his ſervant.
+<label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> It may be it will be replied. Yea, we grant that <hi>Moſes,</hi> Prophets, and Apoſtles ſent immediately from God, or Chriſt, their words are to be beleeved, and obeyed abſolutely: But ſo are not the Sermons of Preachers in theſe times. Indeed,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> the Perſons of ordinary Pa<g ref="char:EOLhyphen"/>ſtors, and Teachers, are not ſent im<g ref="char:EOLhyphen"/>mediately from God, or Chriſt, as were the perſons of Prophets, and A<g ref="char:EOLhyphen"/>poſtles: But their Miniſtery it ſelfe
+<pb n="51" facs="tcp:176979:32"/>was immediately
+<note n="k" place="margin">1 Cor. 12.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ordeined by Chriſt, wherevnto they having fit gifts for the ſame, are called by the voyce of the Church
+<note n="l" place="margin">Acts. 14.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>, and there<g ref="char:EOLhyphen"/>fore to be eſteemed as Miniſters of Chriſt
+<note n="m" place="margin">1 Cor. 16.10.11.</note>. For they performe the ſame ordinary worke of the Mini<g ref="char:EOLhyphen"/>ſtery, in diſpoſing the Myſteries of God vnto the aedification of the Church, which the Apoſtles did. Therefore the Apoſtle exhorteth Gods people
+<note n="n" place="margin">Heb. 13.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> to <hi>obey</hi> (which im<g ref="char:EOLhyphen"/>plyeth <hi>hearing,</hi> and <hi>beleeving</hi>) ſuch as had the charge of their ſoules. If then people are to eſteeme their Paſtors, and Teachers, as the Miniſters of Chriſt, they muſt, as did <hi>Cornelius</hi>
+               <note n="o" place="margin">Acts. 10.3.33.</note>, preſume, that they will Preach the Word of GOD, and be prepared accordingly to <hi>heare,</hi> which implyeth <hi>beleeving</hi> and <hi>obeying.</hi> I grant, that the doc<g ref="char:EOLhyphen"/>trine of Paſtors, and Teachers, be they never ſo learned, and faith<g ref="char:EOLhyphen"/>full, is ſubiect to errour; where<g ref="char:EOLhyphen"/>as
+<pb n="52" facs="tcp:176979:33"/>the Prophets, and Apoſtles de<g ref="char:EOLhyphen"/>livered an infallible truth, there<g ref="char:EOLhyphen"/>fore people may the more diligent<g ref="char:EOLhyphen"/>ly (ſo it be with humilitie) try the Spirits.
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ioh. 4.1.</note> But if the truth of Gods Word be declared to their Conſci<g ref="char:EOLhyphen"/>ences, let them remember what Chriſt ſayth
+<note n="p" place="margin">Luk. 10.1.16.</note>, ſpeaking (not of the Apoſtles, but) of the ſeaventie Diſ<g ref="char:EOLhyphen"/>ciples; <hi>He that heareth you, heareth me, and he that deſpiſeth you, deſpiſeth me.</hi> Laſtly, let it be conſidered, Whether <hi>Naaman</hi> could haue excu<g ref="char:EOLhyphen"/>ſed his not-waſhing in <hi>Iordan</hi>
+               <note n="q" place="margin">2 King. 5.10</note>, by ſaying, He was commanded ſo to doe by a meſſenger, and not by the Prophet <hi>Eliſha;</hi> ſeeing that, which the Meſſenger commanded, was the Word of God as well, as if <hi>Eliſha</hi> had ſpoken it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>6</label> If then Gods people are to ſay one to another, much more to their owne hearts, as did the people in <hi>Ezechiels</hi> time
+<note n="r" place="margin">Ezek. 33.30.</note>, (but with better mindes) Let vs goe, and <hi>heare what
+<pb n="53" facs="tcp:176979:33"/>is the Word that commeth from the Lord.</hi> When they goe to heare their Paſtors, and Teachers, they muſt not bring with them eares, either Anti<g ref="char:EOLhyphen"/>chriſtian to hearken after Doctrines ſtrange, or not grounded vpon the Word (For Chriſt his Sheepe know his voyce, and follow him
+<note n="ſ" place="margin">Ioh. 10.4.</note>: They know not the voyce of a ſtranger, nor follow him) or itching
+<note n="t" place="margin">2 Tim. 4.3.</note>, to hear<g ref="char:EOLhyphen"/>ken after the enticing ſpeech of mans wiſedome
+<note n="u" place="margin">1 Cor. 2.4.5.</note>, as if their faith de<g ref="char:EOLhyphen"/>pendeth thereon: But let them be of <hi>Davids</hi> minde, who profeſſed that he loued Gods Word
+<note n="x" place="margin">Pſ. 116.113.</note>, but hated vaine inventions. Much leſſe are they to be ſo obſtinate, and wicked, as to ſay, either in their hearts, or with their mouthes
+<note n="y" place="margin">Iſa 30.10.</note>; Let not our <hi>Seers</hi> Pro<g ref="char:EOLhyphen"/>phecy right things, but errours, and flattering things.</p>
+            <p>Againe,
+<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>7</label> if people muſt come to Sermons with minds expecting one<g ref="char:EOLhyphen"/>ly Doctrine grounded vpon Gods Word, ſuch as they muſt beleeue,
+<pb n="54" facs="tcp:176979:34"/>and obey as the Word of God, then the Preacher muſt be wiſe to ſeeke out the wordes of truth
+<note n="z" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccleſ. 12.9.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note>, and faith<g ref="char:EOLhyphen"/>full to Preach them as the wordes of God
+<note n="*" place="margin">Pet. 4 11.</note>, that is, with all authoritie
+<note n="a" place="margin">Tit. 2.15.</note>, in the plaine evidence of the Spirit
+<note n="b" place="margin">Cor. 2.4</note>. For if any man Preach not according to the Word, what reading ſoever he make ſhew of, he hath no light in him
+<note n="c" place="margin">Iſa. 8.20.</note>: And howſoever his affected humane eloquence be applauded by itching eares, yet he doth but make Merchandize of the Word of God
+<note n="d" place="margin">2 Cor. 2.17.</note>. Let Miniſters therefore ſpeake (as God himſelfe admoniſheth
+<note n="e" place="margin">Ier. 23.28.</note>) the Word faithfully; For what is chaffe to the wheate?</p>
+            <p>Laſtly;
+<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>8</label> Whereas I haue ſayd that every one of the afore-mentioned grounds of religion is of that power<g ref="char:EOLhyphen"/>full truth, that if it be beleeved in<g ref="char:EOLhyphen"/>deed, it perſwadeth the beleever to make Conſcience of ſinne, I muſt make it good touching this ground, <hi>viz.</hi> There is a Word of God, to wit,
+<pb n="55" facs="tcp:176979:34"/>the Bible, to be beleeved. This is ſoone done, both theſe Propoſitions being prooved; 1. Whoſoever be<g ref="char:EOLhyphen"/>leeveth the Word, as the Word of God, maketh Conſcience of ſinne; and 2. Whoſoever maketh not Con<g ref="char:EOLhyphen"/>ſcience of ſinne, beleeveth not the Word, as the Word of God. Tou<g ref="char:EOLhyphen"/>ching the former. What other cauſe can be ſuppoſed why the Word was as a fire in <hi>Ieremy</hi>
+               <note n="f" place="margin">Ier. 20.7.9.10.</note>, compelling him to ſpeak in the name of God, though in a ſtrong paſſion he had ſaid, he would not, but that he verily belee<g ref="char:EOLhyphen"/>ved, that it was the Word of GOD which he was commanded to ſpeake, &amp; which co<g ref="char:cmbAbbrStroke">̄</g>manded him to ſpeake? The anſwer which <hi>Abraham</hi> gaue to the rich man in hell torments deſi<g ref="char:EOLhyphen"/>ring that <hi>Lazarus</hi> might be ſent vnto his brethren to prevent their tor<g ref="char:EOLhyphen"/>ments (<hi>viz.</hi>
+               <note n="g" place="margin">Luk. 16.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.28.29.</note> 
+               <hi>They haue Moſes, and the Prophets, let them heare them,</hi> that is, their doctrine) ſheweth plainely, that whoſoever heareth the words of
+<pb n="56" facs="tcp:176979:35"/>God as the Words of God, cannot but make conſcience of ſinne: And <hi>Paul</hi> telleth the <hi>Romanes</hi>
+               <note n="h" place="margin">Rom. 6.17.</note>, that how<g ref="char:EOLhyphen"/>ſoever they had beene ſervants of ſin, yet after they were delivered vnto the forme of doctrine, that is, heard the Word as the Word of God, they o<g ref="char:EOLhyphen"/>beyed that forme from the heart, that is, made conſcience of ſinne. 2. That whoſoever maketh not Conſcience of ſinne, beleeveth not the Word to be the Word of God, whatſoever he pretend, briefely thus appeareth. That wicked one who hath Gods Word in his mouth
+<note n="i" place="margin">Pſal. 50.16.17.</note>, and yet will not be reformed, is iudged by God him<g ref="char:EOLhyphen"/>ſelfe to caſt his words behinde him. The remnant of the people of <hi>Iudah,</hi> and their Chieftaines prayed <hi>Iere<g ref="char:EOLhyphen"/>miah</hi>
+               <note n="k" place="margin">Ier. 42.1.2.3 6.19.20.21.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.43.1.2.</note> to enquire of God whether they might not fly into <hi>Egypt</hi> to ſaue themſelues from the <hi>Caldeans,</hi> prote<g ref="char:EOLhyphen"/>ſting to obey the Word of God what<g ref="char:EOLhyphen"/>ſoever it ſhould be: Yet, when the VVord croſſed their purpoſe to fly
+<pb n="57" facs="tcp:176979:35"/>into <hi>Egypt,</hi> they would not beleeue it. And when the rich man in hell, fur<g ref="char:EOLhyphen"/>ther preſſed <hi>Abraham</hi> to ſend <hi>Laza<g ref="char:EOLhyphen"/>rus,</hi> he had this further anſwere;
+<note n="l" place="margin">Luk. 16.3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> If they heare not (with Faith) <hi>Moſes,</hi> and the Prophets, neither will they be perſwaded though one riſe from the dead againe. Both the Propoſi<g ref="char:EOLhyphen"/>tions are confirmed by theſe wordes of Chriſt
+<note n="m" place="margin">Ioh. 3.20.21.</note>. <hi>He that doth evill hateth the light,</hi> that is, doth not beleeue the Word as the Word of God: <hi>But he that doth the truth commeth to the light, that his deedes might be made mani<g ref="char:EOLhyphen"/>feſt, that they be wrought accor<g ref="char:EOLhyphen"/>ding to God.</hi> To whom be glory by all men in their obedience of FAITH. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
